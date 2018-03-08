@@ -22,6 +22,7 @@ RUN docker-php-ext-configure \
     gd \
     intl \
     mbstring \
+    bcmath \
     mcrypt \
     pdo_mysql \
     xsl \
